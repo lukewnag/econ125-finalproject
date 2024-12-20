@@ -11,4 +11,4 @@ TO RUN:
 * Go to `data_downloader.ipynb` and replace `INSERT KEY HERE` with the API key you obtained from FRED, then run all cells
   * If having trouble with previous steps, I have provided all the downloaded data in the repository
 * Go to `data_formatter.ipynb` and run all cells to obtain the Stata file
-  * If having trouble with Python, I have uploaded the Stata file as well
+  * If having trouble with Python, I have uploaded the Stata file as well as `econproject.dta`
